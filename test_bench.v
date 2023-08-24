@@ -22,7 +22,7 @@
 module testbench();
 
     // Inputs
-    reg clk = 0;
+    reg clk;
     reg [7:0] DS1 ;
     reg [7:0] DS2 ;
     reg [7:0] DS3 ;
